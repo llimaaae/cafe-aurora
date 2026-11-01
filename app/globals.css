@@ -7,8 +7,8 @@
   --color-sage: #7C8A6E;
   --color-rose: #E7C8A0;
 
-  --font-family-display: var(--font-fraunces), serif;
-  --font-family-sans: var(--font-nunito), sans-serif;
+  --font-display: var(--font-fraunces), serif;
+  --font-sans: var(--font-nunito), sans-serif;
 }
 
 @layer base {
