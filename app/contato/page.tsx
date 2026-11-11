@@ -10,7 +10,7 @@ export default function ContatoPage() {
     { name: "Instagram", href: "https://instagram.com/cafeaurora" },
     { name: "Facebook", href: "https://facebook.com/cafeaurora" },
     { name: "TikTok", href: "https://tiktok.com/@cafeaurora" },
-    { name: "WhatsApp", href: "https://wa.me/554132227788" },
+    { name: "WhatsApp", href: "https://wa.me/5500000000000" },
   ];
 
   const iconFor = (name: string) => {
@@ -97,8 +97,8 @@ export default function ContatoPage() {
                     </div>
                     <div>
                       <h3 className="mb-2 text-lg font-bold text-espresso">Telefone</h3>
-                      <a href="tel:+554132227788" className="text-espresso/70 transition-smooth hover:text-caramel">
-                        (41) 3222-7788
+                      <a href="tel:+5500000000000" className="text-espresso/70 transition-smooth hover:text-caramel">
+                        (00) 00000-0000
                       </a>
                     </div>
                   </div>

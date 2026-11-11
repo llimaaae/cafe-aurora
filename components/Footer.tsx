@@ -94,8 +94,8 @@ export default function Footer() {
               <p>Rua das Paineiras, 77</p>
               <p>Batel, Curitiba - PR</p>
               <p>
-                <a href="tel:+554132227788" className="transition-smooth hover:text-caramel">
-                  (41) 3222-7788
+                <a href="tel:+5500000000000" className="transition-smooth hover:text-caramel">
+                  (00) 00000-0000
                 </a>
               </p>
               <p>

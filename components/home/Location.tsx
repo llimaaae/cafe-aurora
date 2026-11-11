@@ -59,8 +59,8 @@ export default function Location() {
                 <h3 className="mb-2 text-lg font-bold text-espresso">Contato</h3>
                 <div className="space-y-2 text-espresso/70">
                   <p>
-                    <a href="tel:+554132227788" className="transition-smooth hover:text-caramel">
-                      (41) 3222-7788
+                    <a href="tel:+5500000000000" className="transition-smooth hover:text-caramel">
+                      (00) 00000-0000
                     </a>
                   </p>
                   <p>

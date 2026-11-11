@@ -8,9 +8,9 @@ const FALLBACK_RESPONSES: Record<string, string> = {
   horario:
     "Estamos abertos de terça a sábado:\n• Terça a Sexta: 8h - 19h\n• Sábado: 9h - 20h\n• Domingo: 9h - 14h (fé num brunch!) \n• Segunda fechamos para descansar os grãos",
   endereco: "Rua das Paineiras, 77 - Batel, Curitiba - PR, 80240-080",
-  telefone: "Telefone: (41) 3222-7788\nE-mail: ola@cafeaurora.com.br",
+  telefone: "Telefone: (00) 00000-0000\nE-mail: ola@cafeaurora.com.br",
   reserva:
-    "Você pode reservar mesa pelo site (página Reservas) ou ligar (41) 3222-7788. Fim de semana tem fila — reservar vale a pena.",
+    "Você pode reservar mesa pelo site (página Reservas) ou ligar (00) 00000-0000. Fim de semana tem fila — reservar vale a pena.",
   menu:
     "Temos cafés especiais (espresso, V60, cold brew), brunch o dia inteiro, confeitaria artesanal e grãos para levar. Veja tudo na página Menu.",
   preco:
@@ -80,7 +80,7 @@ export async function POST(req: NextRequest) {
 
 DADOS REAIS:
 - Endereço: Rua das Paineiras, 77 - Batel, Curitiba - PR
-- Telefone: (41) 3222-7788  E-mail: ola@cafeaurora.com.br
+- Telefone: (00) 00000-0000  E-mail: ola@cafeaurora.com.br
 - Horários: Ter-Sex 8h-19h, Sáb 9h-20h, Dom 9h-14h (brunch), Seg fechado
 - Menu: cafés especiais (espresso R$9, cappuccino R$13, latte art R$14, filtrado V60 R$12, cold brew R$15, mocha R$17)
 - Brunch: Aurora placa R$34, panquecas R$26, torrada caprese R$22, ovos bénédict R$38, granola R$19, tapioca R$16

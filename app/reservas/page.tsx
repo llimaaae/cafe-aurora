@@ -247,7 +247,7 @@ export default function ReservationPage() {
                   className={`w-full rounded-full border px-4 py-3 transition-smooth focus:outline-none focus:ring-2 focus:ring-caramel ${
                     errors.phone ? "border-red-400" : "border-espresso/15"
                   }`}
-                  placeholder="(41) 99999-9999"
+                  placeholder="(00) 00000-0000"
                 />
                 {errors.phone && <p className="mt-1 text-sm text-red-500">{errors.phone}</p>}
               </div>
@@ -350,7 +350,7 @@ export default function ReservationPage() {
 
             <div className="mt-8 border-t border-espresso/10 pt-6">
               <p className="mb-6 text-sm text-espresso/60">
-                * obrigatórios. Grupos com mais de 12 pessoas? Ligue (41) 3222-7788 que arrumamos a mesa comprida.
+                * obrigatórios. Grupos com mais de 12 pessoas? Ligue (00) 00000-0000 que arrumamos a mesa comprida.
               </p>
               <button
                 type="submit"
@@ -363,8 +363,8 @@ export default function ReservationPage() {
 
           <div className="mt-10 text-center text-sm text-espresso/60">
             Paciência zero pra fila? Ligar{" "}
-            <a href="tel:+554132227788" className="font-bold text-caramel hover:underline">
-              (41) 3222-7788
+            <a href="tel:+5500000000000" className="font-bold text-caramel hover:underline">
+              (00) 00000-0000
             </a>{" "}
             ou{" "}
             <a href="mailto:ola@cafeaurora.com.br" className="font-bold text-caramel hover:underline">

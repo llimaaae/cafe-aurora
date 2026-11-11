@@ -18,7 +18,7 @@ export default function Home() {
     description:
       "Cafeteria de cafés especiais com brunch e confeitaria artesanal.",
     url: BASE_URL,
-    telephone: "+554132227788",
+    telephone: "+5500000000000",
     email: "ola@cafeaurora.com.br",
     servesCuisine: ["Café especial", "Brunch", "Confeitaria"],
     priceRange: "R$$",
